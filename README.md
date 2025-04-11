@@ -56,10 +56,9 @@ FlavorLens is a generative AI recipe & meal planner app built as a course projec
 - PDF generation with printing package
 
 ## Team
-
+- Tanvirul Islam — 221‑15‑5386
 - Md Mehedi Hasan Nayeem — 221‑15‑5049
 - Md Mobashir Hasan — 221‑15‑5405
-- Tanvirul Islam — 221‑15‑5386
 - Azmira Shekh — 221‑15‑5569
 - Md. Jahid Hasan — 221‑15‑5388
 
